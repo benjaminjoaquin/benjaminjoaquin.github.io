@@ -76,8 +76,13 @@ p {
 
 
     flex: 0 0 85%;
-    background: #f3f6f8;
-    height: 400px;
+    background: #f2f7fa;
+   height:  450px;
+  /*   align-items:flex-start ;
+    display: inline; */
+    
+  
+
 }
 
 @media screen and (max-width:768px) {
